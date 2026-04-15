@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YstaSMP.aternos.me:60987",
+    "ip": "YstaSMP.aternos.me",
     "port": 60987,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
